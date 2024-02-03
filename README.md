@@ -2,6 +2,9 @@
 
 USE FOR EDUCATİONAL PURPOSES ONLY! - SADECE EĞİTİM AMAÇLI KULLANINIZ!
 
+EXE FİLE DOWNLOAD LİNK - EXE DOSYASI İNDİRME LİNKİ:
+
+https://drive.google.com/file/d/1stw3tUPBirsEHjNPGxQ7Ja7MR7x-tvy5/view?usp=sharing
 
 EN: This code is a PyQt6 application with a user interface that serves as an OTP (One-Time Pad) Decoder. OTP is a cipher method that encrypts the text using a completely random key and relies on each key being used only once, hence it's also known as a "single-use cipher block".
 
